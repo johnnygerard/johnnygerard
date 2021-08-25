@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **johnnygerard/johnnygerard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am constantly learning software development and looking for a first job.
+
+[LinkedIn Profile](https://www.linkedin.com/in/johnnygerard/)
