@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am constantly learning software development and looking for a first job.
+I'm learning software development and looking for a first job.
 
 [LinkedIn Profile](https://www.linkedin.com/in/johnnygerard/)
