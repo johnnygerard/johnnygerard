@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 -->
 I'm learning software development and looking for a first job.
 
-[LinkedIn Profile](https://www.linkedin.com/in/johnnygerard/)
+<a href="https://www.linkedin.com/in/johnnygerard">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn badge">
+</a>
