@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm looking for a first job as a software developer.
+I'm looking for a first job in software development.
 
 <a href="https://www.linkedin.com/in/johnnygerard">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn badge">
