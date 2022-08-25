@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 -->
 I'm looking for a first job in software development.
 
-[![LinkedIn badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/johnnygerard)
+<a href="https://www.linkedin.com/in/johnnygerard">
+  <img src="LinkedIn-Logo-256px.png" alt="LinkedIn logo" height="32" width="32">
+</a>
