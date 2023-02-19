@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Self-taught developer looking for a first opportunity.
+Welcome to my GitHub profile!
 
-<a href="https://www.linkedin.com/in/johnnygerard">
-  <img src="LinkedIn-Logo-256px.png" alt="LinkedIn logo" height="32" width="32">
-</a>
+I'm currently practicing Angular front-end development with [Frontend Mentor](https://www.frontendmentor.io/profile/johnnygerard).
