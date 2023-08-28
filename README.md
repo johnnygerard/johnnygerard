@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 -->
 Welcome to my GitHub profile!
 
-I'm currently practicing Angular front-end development with [Frontend Mentor](https://www.frontendmentor.io/profile/johnnygerard).
+I'm currently practicing full stack development with Angular and Spring Boot.
+
+[Frontend Mentor Portfolio](https://www.frontendmentor.io/profile/johnnygerard)
