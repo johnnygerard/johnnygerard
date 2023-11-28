@@ -17,3 +17,7 @@ Welcome to my GitHub profile!
 I'm currently practicing full stack development with Angular and Spring Boot.
 
 [Frontend Mentor Portfolio](https://www.frontendmentor.io/profile/johnnygerard)
+
+<a href="https://stackoverflow.com/users/20871625/john">
+  <img src="logo-stackoverflow.svg" alt="Stack Overflow profile" style="width: 180px">
+</a>
