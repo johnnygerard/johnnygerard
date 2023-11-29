@@ -17,5 +17,9 @@ Welcome to my GitHub profile!
 [Frontend Mentor Portfolio](https://www.frontendmentor.io/profile/johnnygerard)
 
 <a href="https://stackoverflow.com/users/20871625/john">
-  <img src="logo-stackoverflow.svg" alt="Stack Overflow profile" style="width: 180px">
+  <img src="https://stackoverflow.com/users/flair/20871625.png?theme=clean"
+    width="208"
+    height="58"
+    alt="profile for John at Stack Overflow, Q&amp;A for professional and enthusiast programmers"
+    title="profile for John at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
 </a>
