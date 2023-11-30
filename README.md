@@ -20,6 +20,6 @@ Welcome to my GitHub profile!
   <img src="https://stackoverflow.com/users/flair/20871625.png?theme=clean"
     width="208"
     height="58"
-    alt="profile for John at Stack Overflow, Q&amp;A for professional and enthusiast programmers"
-    title="profile for John at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+    alt="Stack Overflow profile"
+    title="Stack Overflow profile">
 </a>
