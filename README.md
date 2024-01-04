@@ -15,11 +15,3 @@ Here are some ideas to get you started:
 Welcome to my GitHub profile!
 
 [Frontend Mentor Portfolio](https://www.frontendmentor.io/profile/johnnygerard)
-
-<a href="https://stackoverflow.com/users/20871625/john">
-  <img src="https://stackoverflow.com/users/flair/20871625.png?theme=clean"
-    width="208"
-    height="58"
-    alt="Stack Overflow profile"
-    title="Stack Overflow profile">
-</a>
