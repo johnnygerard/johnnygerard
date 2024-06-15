@@ -12,13 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello there!
+Welcome to my GitHub profile!
 
-I am a front-end Angular developer.
+I'm a self-taught programmer that specializes in frontend development with Angular.
 
-I grow and maintain a diverse portfolio of Angular applications on the Frontend Mentor platform.  
-All my web applications are made from Figma design files with the open-source code accessible on GitHub.
+Most of my GitHub repositories are Angular solutions to Frontend Mentor challenges, all implemented from Figma designs.
 
-Contact me if you need to create, fix or maintain an Angular application.
+If you like my work and want to collaborate with me on a project, don't hesitate to contact me!
 
-[Frontend Mentor Portfolio](https://www.frontendmentor.io/profile/johnnygerard)
+[Frontend Mentor portfolio](https://www.frontendmentor.io/profile/johnnygerard)
