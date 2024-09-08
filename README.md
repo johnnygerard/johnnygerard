@@ -40,9 +40,22 @@ If you like my work or want to collaborate with me on a project, don't hesitate 
 ![Express](https://img.shields.io/badge/express-000?style=for-the-badge&logo=express&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=fff)
 
-### Fullstack
+### Full Stack
 
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=333)
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+
+### Version Control
+
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=fff)
+
+### Testing
+
+![Cypress](https://img.shields.io/badge/cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=fff)
+![Jasmine](https://img.shields.io/badge/jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=fff)
+
+## Credits
+
+- Badges created with [Shields.io](https://shields.io/)
+- Icons provided by [Simple Icons](https://simpleicons.org/)
