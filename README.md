@@ -44,6 +44,7 @@ If you like my work or want to collaborate with me on a project, don't hesitate 
 ![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
 ![Express](https://img.shields.io/badge/express-000?style=for-the-badge&logo=express&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=fff)
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
 
 ### Testing
 
