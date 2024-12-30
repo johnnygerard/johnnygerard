@@ -24,6 +24,12 @@ If you like my work or want to collaborate with me on a project, don't hesitate 
 
 [Frontend Mentor portfolio](https://www.frontendmentor.io/profile/johnnygerard)
 
+## AI-Driven Development Portfolio
+
+- [AI Art Gallery](https://ai-art-gallery.jgerard.dev/)
+- [SVG Fill Rules](https://v0-svg-fill-rules.vercel.app/)
+- [SVG Clipping Demo](https://lucent-madeleine-e24316.netlify.app/)
+
 ## Skills
 
 ### Languages
