@@ -13,16 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# GitHub Profile
+## Welcome to my GitHub profile!
 
-Hello new visitor!
-
-I'm a self-taught full-stack developer specializing in the [MEAN stack](https://www.mongodb.com/resources/languages/mean-stack) (MongoDB, Express, Angular and Node.js).  
-Most of my projects are Angular solutions to [Frontend Mentor](https://www.frontendmentor.io/) challenges implemented from Figma designs.
+As a self-taught frontend developer, I specialize in delivering [Angular solutions](https://www.frontendmentor.io/profile/johnnygerard). Recently, I started learning React with Next.js and exploring the realm of AI-driven development.
 
 If you like my work or want to collaborate with me on a project, don't hesitate to contact me!
-
-[Frontend Mentor portfolio](https://www.frontendmentor.io/profile/johnnygerard)
 
 ## AI-Driven Development Portfolio
 
