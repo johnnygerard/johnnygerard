@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Welcome to my GitHub profile!
+# Welcome to my GitHub profile!
 
 As a self-taught frontend developer, I specialize in delivering [Angular solutions](https://www.frontendmentor.io/profile/johnnygerard). Recently, I started learning React with Next.js and exploring the realm of AI-driven development.
 
