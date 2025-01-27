@@ -27,25 +27,31 @@ If you like my work or want to collaborate with me on a project, don't hesitate 
 
 ## Skills
 
+### Trinity
+
+[![HTML](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=fff)](https://html.spec.whatwg.org/multipage/)
+[![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=fff)](https://www.w3.org/Style/CSS/current-work)
+[![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=333)](https://tc39.es/ecma262/multipage/)
+
 ### Languages
 
-[![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=333)](https://tc39.es/ecma262/multipage/)
 [![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)](https://www.typescriptlang.org/)
 
-### Frontend
+### Frontend Frameworks
 
 [![Angular](https://img.shields.io/badge/angular-0F0F11?style=for-the-badge&logo=angular&logoColor=fff)](https://angular.dev/)
 [![React](https://img.shields.io/badge/react-087ea4?style=for-the-badge&logo=react&logoColor=fff)](https://react.dev/)
-[![HTML](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=fff)](https://html.spec.whatwg.org/multipage/)
-[![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=fff)](https://www.w3.org/Style/CSS/current-work)
-[![Sass](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=fff)](https://sass-lang.com/)
+
+### Style
+
 [![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff)](https://tailwindcss.com/)
+[![Sass](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=fff)](https://sass-lang.com/)
 
 ### Backend
 
-[![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)](https://www.mongodb.com/)
-[![Express](https://img.shields.io/badge/express-000?style=for-the-badge&logo=express&logoColor=fff)](https://expressjs.com/)
 [![Node.js](https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=fff)](https://nodejs.org/en)
+[![Express](https://img.shields.io/badge/express-000?style=for-the-badge&logo=express&logoColor=fff)](https://expressjs.com/)
+[![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)](https://www.mongodb.com/)
 [![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)](https://www.docker.com/)
 
 ### Testing
