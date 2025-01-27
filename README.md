@@ -19,7 +19,14 @@ As a self-taught frontend developer, I specialize in delivering [Angular solutio
 
 If you like my work or want to collaborate with me on a project, don't hesitate to contact me!
 
-## AI-Driven Development Portfolio
+## Development Portfolio
+
+### AI-Assisted
+
+- [Minesweeper](https://minesweeper.jgerard.dev/)
+- [Frontend Mentor](https://www.frontendmentor.io/profile/johnnygerard)
+
+### AI-Driven
 
 - [AI Art Gallery](https://ai-art-gallery.jgerard.dev/)
 - [SVG Fill Rules](https://v0-svg-fill-rules.vercel.app/)
