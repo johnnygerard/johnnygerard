@@ -35,6 +35,7 @@ If you like my work or want to collaborate with me on a project, don't hesitate 
 ### Frontend
 
 [![Angular](https://img.shields.io/badge/angular-0F0F11?style=for-the-badge&logo=angular&logoColor=fff)](https://angular.dev/)
+[![React](https://img.shields.io/badge/react-087ea4?style=for-the-badge&logo=react&logoColor=fff)](https://react.dev/)
 [![HTML](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=fff)](https://html.spec.whatwg.org/multipage/)
 [![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=fff)](https://www.w3.org/Style/CSS/current-work)
 [![Sass](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=fff)](https://sass-lang.com/)
