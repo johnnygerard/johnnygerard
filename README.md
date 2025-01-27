@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Welcome to my GitHub profile!
 
-As a self-taught frontend developer, I specialize in delivering [Angular solutions](https://www.frontendmentor.io/profile/johnnygerard). Recently, I started learning React with Next.js and exploring the realm of AI-driven development.
+As a self-taught frontend developer, I specialize in delivering frontend solutions with Angular and React.
 
 If you like my work or want to collaborate with me on a project, don't hesitate to contact me!
 
