@@ -41,6 +41,7 @@ If you like my work or want to collaborate with me on a project, don't hesitate 
 
 [![Angular](https://img.shields.io/badge/angular-0F0F11?style=for-the-badge&logo=angular&logoColor=fff)](https://angular.dev/)
 [![React](https://img.shields.io/badge/react-087ea4?style=for-the-badge&logo=react&logoColor=fff)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/next.js-000?style=for-the-badge&logo=nextdotjs)](https://nextjs.org/)
 
 ### Style
 
