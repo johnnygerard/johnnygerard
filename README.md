@@ -15,22 +15,9 @@ Here are some ideas to get you started:
 
 # Welcome to my GitHub profile!
 
-As a self-taught frontend developer, I specialize in delivering frontend solutions with Angular and React.
+Hi, my name is John, and I'm a self-taught frontend developer.
 
-If you like my work or want to collaborate with me on a project, don't hesitate to contact me!
-
-## Development Portfolio
-
-### AI-Assisted
-
-- [Minesweeper](https://minesweeper.jgerard.dev/)
-- [Frontend Mentor](https://www.frontendmentor.io/profile/johnnygerard)
-
-### AI-Driven
-
-- [AI Art Gallery](https://ai-art-gallery.jgerard.dev/)
-- [SVG Fill Rules](https://v0-svg-fill-rules.vercel.app/)
-- [SVG Clipping Demo](https://lucent-madeleine-e24316.netlify.app/)
+To learn more, visit my [portfolio](https://www.jgerard.dev/).
 
 ## Skills
 
@@ -40,9 +27,9 @@ If you like my work or want to collaborate with me on a project, don't hesitate 
 [![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=fff)](https://www.w3.org/Style/CSS/current-work)
 [![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=333)](https://tc39.es/ecma262/multipage/)
 [![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)](https://www.typescriptlang.org/)  
-[![Angular](https://img.shields.io/badge/angular-0F0F11?style=for-the-badge&logo=angular&logoColor=fff)](https://angular.dev/)
 [![React](https://img.shields.io/badge/react-087ea4?style=for-the-badge&logo=react&logoColor=fff)](https://react.dev/)
-[![Next.js](https://img.shields.io/badge/next.js-000?style=for-the-badge&logo=nextdotjs)](https://nextjs.org/)  
+[![Next.js](https://img.shields.io/badge/next.js-000?style=for-the-badge&logo=nextdotjs)](https://nextjs.org/)
+[![Angular](https://img.shields.io/badge/angular-0F0F11?style=for-the-badge&logo=angular&logoColor=fff)](https://angular.dev/)  
 [![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff)](https://tailwindcss.com/)
 [![Sass](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=fff)](https://sass-lang.com/)  
 [![Node.js](https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=fff)](https://nodejs.org/en)
