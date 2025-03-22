@@ -13,11 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Welcome to my GitHub profile!
+# Welcome to my GitHub Profile!
 
-Hi, my name is John, and I'm a self-taught frontend developer.
-
-To learn more, visit my [portfolio](https://www.jgerard.dev/).
+Hi, I'm John, a self-taught frontend developer.  
+Check out my [portfolio](https://www.jgerard.dev/) to learn more.
 
 ## Skills
 
