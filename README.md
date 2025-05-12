@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 
 # Welcome to my GitHub Profile!
 
-Hi, I'm John, a self-taught frontend developer.  
+Hi, I'm John — a self-taught frontend engineer.  
 Check out my [portfolio](https://www.jgerard.dev/) to learn more.
