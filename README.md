@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 
 # Welcome to my GitHub Profile!
 
-Hi, I’m John — a frontend engineer specializing in React, Next.js, and Angular.  
-Check out my [portfolio](https://www.jgerard.dev/) to learn more.
+Hi, I’m John — a frontend engineer specializing in Astro, Next.js, and Angular.  
+Check out my [personal website](https://www.jgerard.dev/) to learn more.
